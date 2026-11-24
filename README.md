@@ -1,5 +1,5 @@
 # Advance Stock Trading and Portfolio Management 📈💼
-
+> 🌐 **Live Web Application:** [https://advance-stock-trading-portfoli-c5axpwnvmreotunjhasjnn.streamlit.app/](https://advance-stock-trading-portfoli-c5axpwnvmreotunjhasjnn.streamlit.app/)
 A comprehensive, production-grade paper trading and quantitative portfolio analytics web application built with **Streamlit**, **yfinance**, **Plotly**, **scikit-learn**, and **SQLite**.
 
 Designed specifically for the Indian equity market (NSE stocks like `RELIANCE.NS`, `TCS.NS`, `INFY.NS`, `HDFCBANK.NS`, `ITC.NS`, `SBIN.NS`, etc.) with full support for any global ticker symbol.
